@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "etiquetas": [
+            "novela",
+            "literatura",
+            "realismo magico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 2,
+        "titulo": "Physic for Scientists and Engineers",
+        "autor": "Serway & Jewett",
+        "etiquetas": [
+            "ciencias",
+            "fisica",
+            "matematicas",
+            "estudio"
+        ],
+        "disponible": false,
+        "prestado_a": "mauro"
+    },
+    {
+        "id": 4,
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupery",
+        "etiquetas": [
+            "fantasia",
+            "infantil",
+            "filosofia"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 5,
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "etiquetas": [
+            "distopia",
+            "ciencia ficcion",
+            "clasico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 6,
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "etiquetas": [
+            "epica",
+            "clasico",
+            "mitologia"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 7,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "etiquetas": [
+            "fantasia",
+            "aventura",
+            "magia"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 8,
+        "titulo": "El Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "etiquetas": [
+            "fantasia",
+            "aventura",
+            "epica"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 9,
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "etiquetas": [
+            "romance",
+            "clasico",
+            "literatura"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 10,
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "etiquetas": [
+            "drama",
+            "psicologia",
+            "clasico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 11,
+        "titulo": "Dracula",
+        "autor": "Bram Stoker",
+        "etiquetas": [
+            "terror",
+            "clasico",
+            "fantasia"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 12,
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "etiquetas": [
+            "terror",
+            "ciencia ficcion",
+            "clasico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 13,
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "etiquetas": [
+            "distopia",
+            "aventura",
+            "accion"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 14,
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "etiquetas": [
+            "ciencia ficcion",
+            "aventura",
+            "epica"
+        ],
+        "disponible": false,
+        "prestado_a": "mauro"
+    },
+    {
+        "id": 15,
+        "titulo": "Sherlock Holmes: Estudio en escarlata",
+        "autor": "Arthur Conan Doyle",
+        "etiquetas": [
+            "misterio",
+            "detectives",
+            "clasico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 16,
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "etiquetas": [
+            "aventura",
+            "clasico",
+            "drama"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 17,
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "etiquetas": [
+            "surrealismo",
+            "clasico",
+            "filosofia"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 18,
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "etiquetas": [
+            "clasico",
+            "filosofia",
+            "drama"
+        ],
+        "disponible": false,
+        "prestado_a": "ana"
+    },
+    {
+        "id": 19,
+        "titulo": "Ready Player One",
+        "autor": "Ernest Cline",
+        "etiquetas": [
+            "ciencia ficcion",
+            "aventura",
+            "videojuegos"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 20,
+        "titulo": "Sapiens: De animales a dioses",
+        "autor": "Yuval Noah Harari",
+        "etiquetas": [
+            "historia",
+            "ciencia",
+            "ensayo"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    },
+    {
+        "id": 21,
+        "titulo": "La rata con thiner",
+        "autor": "Omar Ramírez",
+        "etiquetas": [
+            "recopilacion",
+            "humor",
+            "méxico magico"
+        ],
+        "disponible": true,
+        "prestado_a": null
+    }
+]
